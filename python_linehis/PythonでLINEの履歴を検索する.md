@@ -1,6 +1,6 @@
 <!--
 title: PythonでLINEの履歴を検索する
-tags:  Python, LINE
+tags:  Python,LINE
 -->
 
 ## 概要
